@@ -1,4 +1,3 @@
-// math.test.js
 const doubleNumber = require('./math');
 
 test('Should double the given number', () => {
